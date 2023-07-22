@@ -1,7 +1,7 @@
 # PMGP
 PMGP: Persian Machine-Generated Paraphrase Dataset
 
-we present a new, diverse, and publicly-available dataset of machine-generated text in Persian. By utilizing the OpenAI’s GPT-3.5 Turbo model, we’ve created a comprehensive collection of machine-generated content spanning various themes and levels of formality.
+we present a new, diverse, and publicly-available dataset of machine-generated text in Persian. By utilizing the OpenAI’s GPT-3.5 Turbo model, we’ve created a comprehensive collection of machine-generated content spanning various themes and levels of formality. We used all Digikala comments, [COPER](https://github.com/Ledengary/COPER) articles, and a subset of [pn_summary](https://github.com/hooshvare/pn-summary) as human-written text and generated their paraphrases using ChatGPT.
 
 ## Citation
 
