@@ -12,6 +12,7 @@ If you use the PMGP dataset in your work, please cite it as:
   title = {Human vs Machine Generated Text Detection in Persian},
   author = {Reza Khanmohammadi},
   year = {2023},
+  doi = {10.13140/RG.2.2.12610.96966},
   url = {\url{[https://github.com/Ledengary/PMGP](https://www.researchgate.net/publication/372523197_Human_vs_Machine_Generated_Text_Detection_in_Persian)https://www.researchgate.net/publication/372523197_Human_vs_Machine_Generated_Text_Detection_in_Persian}}
 }
 ```
