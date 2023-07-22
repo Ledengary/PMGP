@@ -9,9 +9,9 @@ If you use the PMGP dataset in your work, please cite it as:
 
 ```
 @misc{pmgp,
-  title = {{PMGP: Persian Machine-Generated Paraphrase Dataset}},
+  title = {Human vs Machine Generated Text Detection in Persian},
   author = {Reza Khanmohammadi},
   year = {2023},
-  howpublished = {\url{https://github.com/Ledengary/PMGP}}
+  url = {\url{[https://github.com/Ledengary/PMGP](https://www.researchgate.net/publication/372523197_Human_vs_Machine_Generated_Text_Detection_in_Persian)https://www.researchgate.net/publication/372523197_Human_vs_Machine_Generated_Text_Detection_in_Persian}}
 }
 ```
